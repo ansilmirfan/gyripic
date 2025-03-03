@@ -6,4 +6,8 @@ Gyropic is a Flutter application that utilizes gyroscope sensors to create inter
 
 This project uses following Flutter packages.
 
-- \*\* sensors_plus\*\*– To access gyroscope data for real-time motion sensing
+- ** sensors_plus**– To access gyroscope data for real-time motion sensing
+
+## Demo Video
+
+[Watch the demo video](https://drive.google.com/file/d/1M2q49_jEQHKJazWfz3L5zH0fBKDo8W6x/view?usp=drivesdk)
